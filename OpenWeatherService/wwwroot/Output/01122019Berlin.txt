@@ -1,0 +1,30 @@
+City Id: 2950159
+City Name: Berlin
+Coordinates: 
+   Latitude: 52.52
+   Longitude: 13.41
+Weather:
+  Weather 01
+    Id:803
+    Main:Clouds
+    Description:broken clouds
+    Icon:04d
+Base:stations
+Main:
+  Temp:276.79
+  Pressure:1021
+  Humidity:93
+  Minimum Temp:276.15
+  Maximum Temp:277.59
+Visibility:7000
+Wind:
+  Speed:1.5
+  Degree:280
+Clouds:
+  All:75
+Sys:
+  Type:1
+  Id:1275
+  Country:DE
+  Sunrise:12/1/2019 6:54:01 AM
+  Sunset:12/1/2019 2:56:51 PM

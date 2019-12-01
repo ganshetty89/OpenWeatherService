@@ -1,0 +1,30 @@
+City Id: 1273294
+City Name: Delhi
+Coordinates: 
+   Latitude: 28.67
+   Longitude: 77.22
+Weather:
+  Weather 01
+    Id:711
+    Main:Smoke
+    Description:smoke
+    Icon:50n
+Base:stations
+Main:
+  Temp:294.05
+  Pressure:1017
+  Humidity:55
+  Minimum Temp:292.15
+  Maximum Temp:294.82
+Visibility:2000
+Wind:
+  Speed:2.44
+  Degree:304
+Clouds:
+  All:0
+Sys:
+  Type:1
+  Id:9165
+  Country:IN
+  Sunrise:12/1/2019 1:26:17 AM
+  Sunset:12/1/2019 11:53:58 AM

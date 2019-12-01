@@ -1,0 +1,30 @@
+City Id: 6539761
+City Name: Marino
+Coordinates: 
+   Latitude: 41.76
+   Longitude: 12.64
+Weather:
+  Weather 01
+    Id:801
+    Main:Clouds
+    Description:few clouds
+    Icon:02d
+Base:stations
+Main:
+  Temp:288.57
+  Pressure:1018
+  Humidity:63
+  Minimum Temp:285.37
+  Maximum Temp:290.93
+Visibility:10000
+Wind:
+  Speed:6.2
+  Degree:150
+Clouds:
+  All:20
+Sys:
+  Type:1
+  Id:6792
+  Country:IT
+  Sunrise:12/1/2019 6:16:53 AM
+  Sunset:12/1/2019 3:40:09 PM

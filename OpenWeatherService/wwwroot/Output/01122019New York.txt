@@ -1,0 +1,30 @@
+City Id: 5128581
+City Name: New York
+Coordinates: 
+   Latitude: 40.71
+   Longitude: -74.01
+Weather:
+  Weather 01
+    Id:804
+    Main:Clouds
+    Description:overcast clouds
+    Icon:04d
+Base:stations
+Main:
+  Temp:271.99
+  Pressure:1015
+  Humidity:58
+  Minimum Temp:268.71
+  Maximum Temp:276.15
+Visibility:16093
+Wind:
+  Speed:4.1
+  Degree:50
+Clouds:
+  All:90
+Sys:
+  Type:1
+  Id:5141
+  Country:US
+  Sunrise:12/1/2019 12:00:40 PM
+  Sunset:12/1/2019 9:29:44 PM

@@ -1,0 +1,30 @@
+City Id: 2988507
+City Name: Paris
+Coordinates: 
+   Latitude: 48.85
+   Longitude: 2.35
+Weather:
+  Weather 01
+    Id:804
+    Main:Clouds
+    Description:overcast clouds
+    Icon:04d
+Base:stations
+Main:
+  Temp:276.81
+  Pressure:1016
+  Humidity:93
+  Minimum Temp:275.93
+  Maximum Temp:277.59
+Visibility:10000
+Wind:
+  Speed:3.6
+  Degree:20
+Clouds:
+  All:90
+Sys:
+  Type:1
+  Id:6550
+  Country:FR
+  Sunrise:12/1/2019 7:22:18 AM
+  Sunset:12/1/2019 3:57:04 PM

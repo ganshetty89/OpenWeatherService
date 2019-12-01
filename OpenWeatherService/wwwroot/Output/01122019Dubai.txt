@@ -1,0 +1,30 @@
+City Id: 292223
+City Name: Dubai
+Coordinates: 
+   Latitude: 25.26
+   Longitude: 55.3
+Weather:
+  Weather 01
+    Id:800
+    Main:Clear
+    Description:clear sky
+    Icon:01n
+Base:stations
+Main:
+  Temp:298.39
+  Pressure:1015
+  Humidity:54
+  Minimum Temp:298.15
+  Maximum Temp:299.15
+Visibility:10000
+Wind:
+  Speed:4.6
+  Degree:30
+Clouds:
+  All:0
+Sys:
+  Type:1
+  Id:7537
+  Country:AE
+  Sunrise:12/1/2019 2:47:10 AM
+  Sunset:12/1/2019 1:28:29 PM

@@ -1,0 +1,30 @@
+City Id: 1275339
+City Name: Mumbai
+Coordinates: 
+   Latitude: 19.01
+   Longitude: 72.85
+Weather:
+  Weather 01
+    Id:721
+    Main:Haze
+    Description:haze
+    Icon:50n
+Base:stations
+Main:
+  Temp:303.15
+  Pressure:1011
+  Humidity:62
+  Minimum Temp:303.15
+  Maximum Temp:303.15
+Visibility:2200
+Wind:
+  Speed:3.1
+  Degree:340
+Clouds:
+  All:40
+Sys:
+  Type:1
+  Id:9052
+  Country:IN
+  Sunrise:12/1/2019 1:25:22 AM
+  Sunset:12/1/2019 12:29:52 PM

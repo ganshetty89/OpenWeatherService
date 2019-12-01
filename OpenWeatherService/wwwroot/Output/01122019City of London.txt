@@ -1,0 +1,30 @@
+City Id: 2643741
+City Name: City of London
+Coordinates: 
+   Latitude: 51.51
+   Longitude: -0.09
+Weather:
+  Weather 01
+    Id:803
+    Main:Clouds
+    Description:broken clouds
+    Icon:04d
+Base:stations
+Main:
+  Temp:279.75
+  Pressure:1023
+  Humidity:81
+  Minimum Temp:278.71
+  Maximum Temp:280.93
+Visibility:10000
+Wind:
+  Speed:5.1
+  Degree:20
+Clouds:
+  All:75
+Sys:
+  Type:1
+  Id:1502
+  Country:GB
+  Sunrise:12/1/2019 7:43:22 AM
+  Sunset:12/1/2019 3:55:32 PM

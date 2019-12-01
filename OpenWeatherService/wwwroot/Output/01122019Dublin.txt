@@ -1,0 +1,30 @@
+City Id: 2964574
+City Name: Dublin
+Coordinates: 
+   Latitude: 53.34
+   Longitude: -6.27
+Weather:
+  Weather 01
+    Id:801
+    Main:Clouds
+    Description:few clouds
+    Icon:02d
+Base:stations
+Main:
+  Temp:278.34
+  Pressure:1029
+  Humidity:93
+  Minimum Temp:278.15
+  Maximum Temp:278.71
+Visibility:10000
+Wind:
+  Speed:3.6
+  Degree:300
+Clouds:
+  All:20
+Sys:
+  Type:1
+  Id:1565
+  Country:IE
+  Sunrise:12/1/2019 8:16:52 AM
+  Sunset:12/1/2019 4:11:29 PM

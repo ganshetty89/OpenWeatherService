@@ -1,0 +1,30 @@
+City Id: 4229546
+City Name: Washington
+Coordinates: 
+   Latitude: 33.74
+   Longitude: -82.74
+Weather:
+  Weather 01
+    Id:500
+    Main:Rain
+    Description:light rain
+    Icon:10d
+Base:stations
+Main:
+  Temp:287.59
+  Pressure:1007
+  Humidity:93
+  Minimum Temp:287.04
+  Maximum Temp:288.15
+Visibility:16093
+Wind:
+  Speed:4.6
+  Degree:210
+Clouds:
+  All:90
+Sys:
+  Type:1
+  Id:2887
+  Country:US
+  Sunrise:12/1/2019 12:17:38 PM
+  Sunset:12/1/2019 10:22:38 PM
